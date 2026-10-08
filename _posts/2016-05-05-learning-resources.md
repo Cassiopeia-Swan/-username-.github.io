@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Words"
+title: "About Me"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
