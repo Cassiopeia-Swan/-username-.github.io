@@ -1,8 +1,11 @@
 ---
 layout: post
-title: ""
+title: "Words"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
-image:
+image: PPD_NASA.png
 ---
+
+
+hey, I hope this works
