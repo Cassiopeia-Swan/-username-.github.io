@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "About"
 author: ""
 categories: documentation
 tags: [documentation,sample]
