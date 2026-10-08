@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: ""
+author: "Cass"
 categories: documentation
 tags: [documentation,sample]
 image: PPD_NASA.png
