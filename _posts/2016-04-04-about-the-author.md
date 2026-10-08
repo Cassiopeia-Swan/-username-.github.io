@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "About the Author"
+title: ""
 author: "Cassiopeia Anne Talbot-Swan
-categories: facts
+categories: 
 tags: [sample]
-image: cuba-2.jpg
+image: 
 ---
 
-Hi there! I'm Cass, I'm currently working towards my PhD in Astrophysics at UCL, having completed my MSc Astrophysics at Cardiff University and my undergraduate degree in Planetary Sciences with Astronomy at Birkbeck College. 
