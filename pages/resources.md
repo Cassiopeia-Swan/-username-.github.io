@@ -2,5 +2,5 @@
 layout: category
 title: CV
 category: resources
-permalink: /soemthing-else
+permalink: /something-else
 ---
