@@ -10,7 +10,7 @@ menu:
 - {name: 'About Me',  url: 'about'}
 - {name: 'Interests', url: 'interests'}
 - {name: 'Something else',       url: 'something-else'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Publications',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
