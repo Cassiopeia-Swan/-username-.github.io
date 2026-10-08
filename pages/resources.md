@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: CV
 category: resources
-permalink: /resources
+permalink: /soemthing-else
 ---
