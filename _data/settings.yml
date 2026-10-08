@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'About Me',  url: 'about'}
 - {name: 'Interests', url: 'interests'}
-- {name: 'Something else',       url: 'something-else'}
+- {name: 'CV',       url: 'something-else'}
 - {name: 'Publications',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
 
