@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ""
+title: "Statistics and Sub Neptunes"
 author: "Cassiopeia Anne Talbot-Swan
 categories: 
 tags: [sample]
-image: 
+image: KS_test.png
 ---
 
