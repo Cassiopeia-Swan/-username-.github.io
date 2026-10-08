@@ -1,8 +1,10 @@
 ---
 layout: category
 title: publications
-category: documentation
-permalink: /documentation
+category: publications
+permalink: /publications
 ---
+
+
 Publications...
 A work in progress :)
